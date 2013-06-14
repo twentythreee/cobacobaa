@@ -1,5 +1,5 @@
 cobacobaa
 =========
-**INI DI BOLD**
+*INI DI BOLD*
 _INI DI ITALIC_
 ---------
